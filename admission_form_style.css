@@ -1,0 +1,37 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.dasboard h1{
+	text-align:center;
+	
+	color:crimson;
+	
+}
+.admission_form{
+	width:800px;
+	height:900px;
+	line-height:40px;
+	margin:40px auto;
+	
+}
+.personal_information h3{
+	color:green;
+	font-size:28px;
+	margin-bottom:20px;
+	margin-top:10px;
+}
+input{
+	width:50%;
+	height:30px;
+	
+}
+label{
+	font-size:18px;
+}
+select{
+	width:50%;
+	height:30px;
+	font-size:18px;
+}

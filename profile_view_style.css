@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.content{
+    width:800px;
+    margin:50px auto;
+}
+.content h1{
+    text-align: center;
+    color: crimson;
+    font-size: 30px;
+    margin-bottom:40px;
+}
